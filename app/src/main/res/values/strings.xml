@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">RadioButtonExample</string>
+    <string name="rb480p">480p</string>
+    <string name="btnCargar">Cargar resolucion</string>
+</resources>
